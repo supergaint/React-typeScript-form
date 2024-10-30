@@ -6,7 +6,9 @@ function App() {
   // const [count, setCount] = useState(0)
 
   return (
-   <Navbar />
+  <div className="flex justify-center ">
+    <Navbar />
+  </div>
   )
 }
 
